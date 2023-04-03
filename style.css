@@ -5,3 +5,8 @@ h1{
 h2{
     background-color: pink;
 }
+
+h3{
+    background-color: violet;
+    color: red;
+}
