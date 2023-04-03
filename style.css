@@ -10,3 +10,9 @@ h3{
     background-color: violet;
     color: red;
 }
+
+p{
+    font-size: 20px;
+    color: purple;
+    text-align: center;
+}
